@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name my-stack --template-body File://path/to/file.yml --parameters ParameterKey=MyParameter,ParameterValue=my-value
